@@ -1,3 +1,3 @@
 # diyapatra-demo
-This is my first Git Repository
-Author - Diya Patra
+This is my first Git Repository. <br>
+Author - Diya Patra.
